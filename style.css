@@ -25,3 +25,7 @@ nav{
   text-decoration: none;
   float: center;
 }
+nav.active {
+  color: white;
+  background-color: #4CAF50;
+}
