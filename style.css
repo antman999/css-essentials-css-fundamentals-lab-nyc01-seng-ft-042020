@@ -14,7 +14,7 @@ h1{
 
 nav{
     list-style-type: none;
-  margin: 0;
+  margin: 1;
   overflow: hidden;
   border: 2px solid #e7e7e7;
   background-color: #f3f3f3;
